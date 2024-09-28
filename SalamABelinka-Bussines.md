@@ -33,9 +33,9 @@
 * Jakmile had vyjede z hracího pole tak hra končí
 * Na konci hry se vypíše skóre obou hadů a program se zeptá na jméno obou hadu a uloží skóre se jmény do souboru
 * Po skončení hry se zároveň vypíše 5 nejlepších skóre společne se jmény hadů, které daného skóre dosáhli
+* **Zobrazení** - aplikace by se měla zobrazovat jako čtvercové okno CLI
 
 ### Nefunkční požadavky
 * **CLI Aplikace** - aplikace bude vyvinuta pro prostředí příkazové řádky
 * **Podporované zařízení** - aplikace bude optimalizována jen na zařízení co podporují .NET v příkazovém prostředí verze 4.8 a novější
-* **Zobrazení** - aplikace by se měla zobrazovat jako čtvercové okno CLI
 * **Vývojové prostředí** - aplikace bude vyvíjena ve Visual Studio 2022 v .Net frameworku
