@@ -25,26 +25,26 @@
 
 ## Požadavky
 ### Funkční požadavky
-* 1 nebo 2 hráči ovládají hada/y klávesami
+1. 1 nebo 2 hráči ovládají hada/y klávesami
  **Priorita:** Vysoká
-* Hadi se **hýbají bez přestání**
+2. Hadi se **hýbají bez přestání**
  **Priorita:** Vysoká
-* Po celém poli se náhodně objevuje ovoce, které když je pozřeno hadem, tak se přičítá skóre
+3. Po celém poli se náhodně objevuje ovoce, které když je pozřeno hadem, tak se přičítá skóre
  **Priorita:** Vysoká
-* Had je stejne dlouhý jako cislo **x skore + 1**
+4. Had je stejne dlouhý jako cislo **x skore + 1**
  **Priorita:** Vysoká
-* Na poli se při spuštění hry objeví náhodně rozmístěné kameny a když do nich had narazí tak hra končí
+5. Na poli se při spuštění hry objeví náhodně rozmístěné kameny a když do nich had narazí tak hra končí
  **Priorita:** Nižší
-* Jakmile had vyjede z hracího pole tak hra končí
+6. Jakmile had vyjede z hracího pole tak hra končí
  **Priorita:** Vysoká
-* Na konci hry se vypíše skóre obou hadů a program se zeptá na jméno obou hadu a uloží skóre se jmény do souboru
+7. Na konci hry se vypíše skóre obou hadů a program se zeptá na jméno obou hadu a uloží skóre se jmény do souboru
  **Priorita:** Střední
-* Po skončení hry se zároveň vypíše 5 nejlepších skóre společne se jmény hadů, které daného skóre dosáhli
+8. Po skončení hry se zároveň vypíše 5 nejlepších skóre společne se jmény hadů, které daného skóre dosáhli
  **Priorita:** Nižší
-* **Zobrazení** - aplikace by se měla zobrazovat jako čtvercové okno CLI
+9. **Zobrazení** - aplikace by se měla zobrazovat jako čtvercové okno CLI
  **Priorita:** Střední
 
 ### Nefunkční požadavky
-* **CLI Aplikace** - aplikace bude vyvinuta pro prostředí příkazové řádky
-* **Podporované zařízení** - aplikace bude optimalizována jen na zařízení co podporují .NET v příkazovém prostředí verze 4.8 a novější
-* **Vývojové prostředí** - aplikace bude vyvíjena ve Visual Studio 2022 v .Net frameworku
+1. **CLI Aplikace** - aplikace bude vyvinuta pro prostředí příkazové řádky
+2. **Podporované zařízení** - aplikace bude optimalizována jen na zařízení co podporují .NET v příkazovém prostředí verze 4.8 a novější
+3. **Vývojové prostředí** - aplikace bude vyvíjena ve Visual Studio 2022 v .Net frameworku
