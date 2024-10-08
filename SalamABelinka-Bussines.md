@@ -15,7 +15,8 @@
 * **Komentář:** První verze dokumentu
 
 ### Verze 2
-* Očíslování požadavků
+* **Autor:** Václav Bohdanecký
+* **Komentář:**Očíslování požadavků
 
 ## Úvod
 * **Účel dokumentu** – Účelem dokumentu je popsání všech požadovaný funkcí programu a nefunkčních požadavků.
