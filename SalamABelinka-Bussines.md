@@ -1,8 +1,8 @@
  # Videohra v CLI: Salám a Belinka - Bussines požadavky
 * *SSPŠ*
-* *Verze 1*
+* *Verze 2*
 * *Václav Bohdanecký*
-* *17.9.2024*
+* *5.10.2024*
 
 ## Obsah
 1. Historie Dokumentu
@@ -13,6 +13,9 @@
 ### Verze 1
 * **Autor:** Václav Bohdanecký
 * **Komentář:** První verze dokumentu
+
+### Verze 2
+* Očíslování požadavků
 
 ## Úvod
 * **Účel dokumentu** – Účelem dokumentu je popsání všech požadovaný funkcí programu a nefunkčních požadavků.
