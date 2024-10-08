@@ -25,7 +25,7 @@
 * **Spuštění:** Hned po spuštění se otevře konzole a hráč je vtáhnut do hry, která okamžitě začíná
 * **Výchozí nastavení:** 
     * 10% pole budou kameny
-    * Had se posouvá o 1 pole
+    * Had se posouvá o 1 symbol
 
 ## Hlavní obsah aplikace
 ### Herní pole
