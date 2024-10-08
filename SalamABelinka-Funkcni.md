@@ -22,7 +22,10 @@
 
 ## Celková hrubá architektura
 * **Jazyk aplikace:** Angličtina
-* **Spuštění:** Hned po spuštění je hráč vtáhnut do hry a ta začíná
+* **Spuštění:** Hned po spuštění se otevře konzole a hráč je vtáhnut do hry, která okamžitě začíná
+* **Výchozí nastavení:** 
+    * 10% pole budou kameny
+    * Had se posouvá o 1 pole
 
 ## Hlavní obsah aplikace
 ### Herní pole
@@ -32,6 +35,7 @@ Velikost konzole odpovídá velikosti hracího pole, na kterém se hráč musí 
 Na herním poli jsou dva hadi a ti začínají naproti sobě a jezdí po poli bez přestávky. Had **Salám** (O vlevo) se ovládá klávesami ``WASD`` a had **Belinka** (X vpravo) se ovládá ``↑←↓→``. Pokud do sebe hadi narazí, tak hra končí.
 
 ### Kameny
+Kameny jsou náhodně rozmístěné symboly na hracím poli. Pokud had narazí do kamene, tak **hra končí**. Kamenů je vždy stejně, ale jsou na jiných místech.
 
 ### Ovoce
 Hadi mají za úkol pozbírat co nejvíce **ovoce (#)** jen jde. Po pozřetí **ovoce** se had zvětší o **jeden symbol (O nebo X)**. 
