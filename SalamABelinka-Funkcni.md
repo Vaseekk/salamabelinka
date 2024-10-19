@@ -30,7 +30,10 @@
 ## Hlavní obsah aplikace
 
 ### Návrh user interface
+#### Hlavní hra
 ![Hrací pole návrh](HraciPoleNavrh.png)
+
+#### Konec hry
 ![Skóre návrh](Skore.png)
 
 ### Herní pole
