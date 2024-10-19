@@ -28,6 +28,10 @@
     * Had se posouvá o 1 symbol
 
 ## Hlavní obsah aplikace
+
+### Návrh user interface
+[Hrací pole](../HraciPoleNavrh.png)
+
 ### Herní pole
 Velikost konzole odpovídá velikosti hracího pole, na kterém se hráč musí udržet, jinak prohrál.
 
