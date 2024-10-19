@@ -30,7 +30,8 @@
 ## Hlavní obsah aplikace
 
 ### Návrh user interface
-![Hrací pole](HraciPoleNavrh.png)
+![Hrací pole návrh](HraciPoleNavrh.png)
+![Skóre návrh](Skore.png)
 
 ### Herní pole
 Velikost konzole odpovídá velikosti hracího pole, na kterém se hráč musí udržet, jinak prohrál.
