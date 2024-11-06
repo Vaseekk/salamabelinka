@@ -1,8 +1,8 @@
  # Videohra v CLI: Salám a Belinka - Bussines požadavky
 * *SSPŠ*
-* *Verze 2*
+* *Verze 3*
 * *Václav Bohdanecký*
-* *5.10.2024*
+* *6.11.2024*
 
 ## Obsah
 1. Historie Dokumentu
@@ -18,6 +18,10 @@
 * **Autor:** Václav Bohdanecký
 * **Komentář:** Očíslování požadavků
 
+## Verze 3
+* **Autor:** Václav Bohdanecký
+* **Komentář:** Úprava požadavků
+
 ## Úvod
 * **Účel dokumentu** – Účelem dokumentu je popsání všech požadovaný funkcí programu a nefunkčních požadavků.
 * **Cílová skupina:** Pan učitel programování
@@ -29,7 +33,7 @@
 
 ## Požadavky
 ### Funkční požadavky
-1. 1 nebo 2 hráči ovládají hada/y klávesami
+1. 2 hráči ovládají hada/y klávesami
 
      **Priorita:** Vysoká
 
@@ -61,7 +65,7 @@
 
     **Priorita:** Nižší
 
-10. **Zobrazení** - aplikace by se měla zobrazovat jako čtvercové okno CLI
+10. **Zobrazení** - herní pole by se měla zobrazovat jako čtverec v CLI oknu
 
      **Priorita:** Střední
 
