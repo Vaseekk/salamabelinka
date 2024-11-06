@@ -40,7 +40,7 @@ namespace SnakeGame
 
             bool gameRunning = true;
 
-            // Použití AnsiConsole.Live pro aktualizaci obrazovky v reálném čase
+            // Použití AnsiConsole.Live pro aktualizaci obrazovky v reálném čase (jinak se hrací pole strašně seká a není to koukatelné)
             AnsiConsole.Live(table).Start(ctx =>
             {
                 while (gameRunning)
