@@ -1,8 +1,8 @@
  # Videohra v CLI: Salám a Belinka - Funkční požadavky
 * *SSPŠ*
-* *Verze 1*
+* *Verze 2*
 * *Václav Bohdanecký*
-* *17.9.2024*
+* *6.11.2024*
 
 ## Obsah
 1. Historie Dokumentu
@@ -15,6 +15,10 @@
 ### Verze 1
 * **Autor:** Václav Bohdanecký
 * **Komentář:** První verze dokumentu
+
+### Verze 2
+* **Autor:** Václav Bohdanecký
+* **Komentář:** Úprava požadavku s herním polem
 
 ## Úvod
 * **Účel dokumentu** – Účelem dokumentu je popsání všech požadovaný funkcí programu a nefunkčních požadavků.
@@ -37,7 +41,7 @@
 ![Skóre návrh](Skore.png)
 
 ### Herní pole
-Velikost konzole odpovídá velikosti hracího pole, na kterém se hráč musí udržet, jinak prohrál.
+V konzoli je ohraničení hracího pole, na kterém se hráč musí udržet, jinak prohrál.
 
 ### Hadi
 Na herním poli jsou dva hadi a ti začínají naproti sobě a jezdí po poli bez přestávky. Had **Salám** (O vlevo) se ovládá klávesami ``WASD`` a had **Belinka** (X vpravo) se ovládá ``↑←↓→``. Pokud do sebe hadi narazí, tak hra končí.
