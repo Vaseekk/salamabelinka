@@ -33,7 +33,7 @@
 
 ## Požadavky
 ### Funkční požadavky
-1. 2 hráči ovládají hada/y klávesami
+1. 1 nebo 2 hráči ovládají hada/y klávesami
 
      **Priorita:** Vysoká
 
