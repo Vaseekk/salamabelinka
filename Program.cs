@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -30,7 +30,13 @@ namespace SnakeGame
 
             int baseDelay = 300; //0,3 sekundy - zpoždění mezi jednotlivými iteracemi smyčky
 
-            AnsiConsole.MarkupLine("[bold]Console window on full screen recommended![/] ");
+            AnsiConsole.MarkupLine("[bold on red]Console window on full screen recommended![/] ");
+            AnsiConsole.MarkupLine("");
+            AnsiConsole.MarkupLine("[green]Control Snake 1 (O): W A S D[/] ");
+            AnsiConsole.MarkupLine("[red]Control Snake 2 (X): ↑ <- ↓ ->[/] ");
+            AnsiConsole.MarkupLine("");
+            AnsiConsole.MarkupLine("[yellow]Eat as much fruit as you can and try not to die![/] ");
+            AnsiConsole.MarkupLine("");
             AnsiConsole.MarkupLine("[bold]Press enter to continue:[/] ");
             Console.ReadLine();
             Console.Clear();
